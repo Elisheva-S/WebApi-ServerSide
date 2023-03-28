@@ -1,0 +1,6 @@
+להתקין נוגט:
+Microsoft.AspNetCore.Mvc.NewtonsoftJson
+system.data.sqlclient
+
+להעתיק program בשביל הcors
+בפרונט- להתקין Mui
